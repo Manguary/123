@@ -1,0 +1,12 @@
+[
+  {"Seq.": 1.0, "Demanda": "Notificação BB - Tomadão", "Minutado": "Sim", "Double Check": "Sim", "Entrega": "2025-11-10T00:00:00.000Z", "dia": "2025-11-10T00:00:00.000Z", "Posição": "Finalizado"},
+  {"Seq.": 2.0, "Demanda": "Contrato Clodoaldo", "Minutado": "Sim", "Double Check": "Sim", "Entrega": "2025-11-10T00:00:00.000Z", "dia": "2025-11-10T00:00:00.000Z", "Posição": "Finalizado"},
+  {"Seq.": 3.0, "Demanda": "Notificação BB - Zeca", "Minutado": "Sim", "Double Check": "Sim", "Entrega": "2025-11-10T00:00:00.000Z", "dia": "2025-11-10T00:00:00.000Z", "Posição": "ag. Retorno esp. Empresarial"},
+  {"Seq.": 4.0, "Demanda": "Contrato GGF", "Minutado": "Sim", "Double Check": "Sim", "Entrega": "2025-11-10T00:00:00.000Z", "dia": "2025-11-11T00:00:00.000Z", "Posição": "ag. Retorno esp. Empresarial"},
+  {"Seq.": 5.0, "Demanda": "Contrato Ouro Verde", "Minutado": "Sim", "Double Check": "Sim", "Entrega": "2025-11-11T00:00:00.000Z", "dia": "2025-11-11T00:00:00.000Z", "Posição": "ag. Retorno esp. Empresarial"},
+  {"Seq.": 6.0, "Demanda": "Alteração Contratual R...", "Minutado": "Sim", "Double Check": "Não", "Entrega": "2025-11-12T00:00:00.000Z", "dia": "2025-11-12T00:00:00.000Z", "Posição": "Ag. Mais informações"},
+  {"Seq.": 7.0, "Demanda": "Notificação Bruna", "Minutado": "Sim", "Double Check": "Não", "Entrega": "2025-11-12T00:00:00.000Z", "dia": "2025-11-12T00:00:00.000Z", "Posição": "Ag. Mais informações"},
+  {"Seq.": 8.0, "Demanda": "Contrato G.A", "Minutado": "Sim", "Double Check": "Não", "Entrega": "2025-11-12T00:00:00.000Z", "dia": "2025-11-12T00:00:00.000Z", "Posição": "Ag. Mais informações"},
+  {"Seq.": 9.0, "Demanda": "Acordo Ouro Verde", "Minutado": "Sim", "Double Check": "Não", "Entrega": "2025-11-13T00:00:00.000Z", "dia": "2025-11-13T00:00:00.000Z", "Posição": "ag. Retorno esp. Trabalhista"},
+  {"Seq.": 10.0, "Demanda": "Notificação Cartorária...", "Minutado": "Não", "Double Check": "Não", "Entrega": "2025-11-14T00:00:00.000Z", "dia": "2025-11-14T00:00:00.000Z", "Posição": "*(aguardar resultado Notificação)"}
+]
